@@ -1,0 +1,9 @@
+{
+  "documentArchivingConfiguration" : "documentArchivingConfiguration",
+  "archivedDocumentStorageReference" : "456132023",
+  "documentArchivingSchedule" : "0 15 15 ? * *",
+  "documentReference" : "DOCR124481",
+  "documentStatus" : "finished",
+  "documentLocation" : "/documents/BIAN/V2/2.0.0",
+  "documentServicesSessionReference" : "DSSR58879"
+}

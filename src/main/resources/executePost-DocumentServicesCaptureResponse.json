@@ -1,0 +1,18 @@
+{
+  "documentSubjectReference" : "DSR456985214",
+  "documentTypeDescription" : "Text",
+  "documentCaptureDateTime" : "2018-09-26",
+  "documentProductServiceActionReference" : "DPSAR123456987",
+  "documentUpdateHistory" : "/documents/BIAN/V1/1.0.0, /documents/BIAN/V1/1.0.1, /documents/BIAN/V1/1.1.0",
+  "businessUnitEmployeeReference" : "BUER4466558879",
+  "documentCaptureReference" : "DCR47438",
+  "documentContent" : {},
+  "documentLocation" : "/documents/BIAN/V2/2.0.1",
+  "documentVersionValueDate" : "V-2.0.0",
+  "documentReference" : "DOCR446998551",
+  "documentStatus" : "AUTHENTICATED",
+  "locationReference" : "documents/BIAN/V2/2.0.1",
+  "productServiceActivityReference" : "PSAR7788996632",
+  "documentServicesSessionReference" : "DSSR32434",
+  "documentMediaFormat" : "JPEG"
+}

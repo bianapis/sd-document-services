@@ -1,0 +1,15 @@
+{
+  "documentSubjectReference" : "456985214",
+  "documentTypeDescription" : "Text",
+  "documentProductServiceActionReference" : "123456987",
+  "documentUpdateHistory" : "/documents/BIAN/V1/1.0.0, /documents/BIAN/V1/1.0.1, /documents/BIAN/V1/1.1.0",
+  "serviceRequestorReference" : "446998551",
+  "documentContent" : {},
+  "documentLocation" : "/documents/BIAN/V2/2.0.0",
+  "documentVersionValueDate" : "V-2.0.0",
+  "documentReference" : "446998551",
+  "documentStatus" : "AUTHENTICATED",
+  "documentServicesSessionReference" : "4466558879",
+  "documentRetrievalReference" : "865479245",
+  "documentMediaFormat" : "JPEG"
+}

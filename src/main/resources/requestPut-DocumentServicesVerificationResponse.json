@@ -1,0 +1,9 @@
+{
+  "documentVerificationServiceProviderReference" : "456124481",
+  "documentVerificationType" : "UPDATE",
+  "documentReference" : "DR123",
+  "documentStatus" : "VERIFIED",
+  "documentVerificationResult" : "approved",
+  "documentServicesSessionReference" : "4466558879",
+  "documentVerificationServiceReference" : "456124481"
+}
